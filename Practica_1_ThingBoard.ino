@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <ThingsBoard.h>
 
-#define WIFI_AP "YOUR_WIFI_AP"
-#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+#define WIFI_AP "IZZI-RODRIGUEZ"
+#define WIFI_PASSWORD "Amarillo10"
 
 #define TOKEN "ESP8266_DEMO_TOKEN"
 
